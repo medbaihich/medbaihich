@@ -1,6 +1,11 @@
-# Projects Showcase - Mohamed BAIHICH "🦉"
-Hi there! 👋  
-I am a Master's student in **Computer Engineering and Embedded Systems**.  
+# Portfolio - Mohamed BAIHICH "🦉"
+👋 Hi, I'm Mohamed Baihich  
+🎓 2nd-year Master's student in Excellence Program: Computer Engineering & Embedded Systems   
+💡 Passionate about programming, embedded systems, AI, and software development   
+🛠️ Skilled in  C, C++, Assembly, Java, Python and JavaScript   
+📂 Sharing my projects and learning experiences here on GitHub 
+
+
 
 
 
@@ -16,16 +21,58 @@ I am a Master's student in **Computer Engineering and Embedded Systems**.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="45"/>
+</p>
+
+---
+
+
+## 🎓 Certifications
+
+<p>
+  
+  <a href="https://www.coursera.org/account/accomplishments/specialization/QTQRZFA3M1HX" target="_blank">
+    <img src="https://img.shields.io/badge/IoT%20Specialization-arduino-green?logo=arduino" />
+  </a>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/NRD0QAONCYQZ" target="_blank">
+    <img src="https://img.shields.io/badge/Machine%20Learning-Python-red?logo=python" />
+  </a>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/KHEZJXVXVOWT" target="_blank">
+    <img src="https://img.shields.io/badge/Arm%20Cortex--M%20Dev-ARM-yellow?logo=arm" />
+  </a>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/3S032H4SCBFG" target="_blank">
+    <img src="https://img.shields.io/badge/Semiconductor%20Characterization-%E2%9A%A1-purple" />
+  </a>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/T9PUB0K2TNXV" target="_blank">
+    <img src="https://img.shields.io/badge/Sensors%20%26%20Motors-RaspberryPi-orange?logo=raspberrypi" />
+  </a>
+  <a href="https://www.coursera.org/account/accomplishments/verify/1UUVHIJ9Q7HN" target="_blank">
+    <img src="https://img.shields.io/badge/Automotive%20Embedded%20Systems-%F0%9F%9A%97-blue" />
+  </a>
+  <a href="https://www.coursera.org/account/accomplishments/verify/JRHS00CVFHDJ" target="_blank">
+    <img src="https://img.shields.io/badge/Embedded%20SW%20%26%20HW%20Arch-C%2B%2B-orange?logo=cplusplus" />
+  </a>
+  <a href="https://www.coursera.org/account/accomplishments/verify/LBE7PRQWZD5I" target="_blank">
+    <img src="https://img.shields.io/badge/5G%20for%20Everyone-5G-pink" />
+  </a>
+  <a href="https://www.coursera.org/account/accomplishments/verify/6NZ7YRI9CD1Y" target="_blank">
+    <img src="https://img.shields.io/badge/Creative%20%26%20Critical%20Thinking-%F0%9F%A7%A0-brown" />
+  </a>
 </p>
 
 
 ---
+
+
 ## 💻 IoT & Embedded Projects (Wokwi)
 
 | # | Project Title         | Description                                                                 | Live Demo |
