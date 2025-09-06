@@ -1,7 +1,7 @@
 # Projects Showcase - Mohamed BAIHICH "🦉"
 Hi there! 👋  
 I am a Master's student in **Computer Engineering and Embedded Systems**.  
-This repository is a showcase of my main projects in **IoT, Embedded Systems, Machine Learning, and Real-Time Computing**.
+
 
 
 ---
