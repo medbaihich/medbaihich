@@ -105,5 +105,6 @@
   ---
 
 ## 📫 Contact
-- [GitHub](https://github.com/medbaihich)  
+- [LinkedIn](https://www.linkedin.com/in/mohamed-baihich/)
+- [GitHub](https://github.com/medbaihich)
 - Email: hamdi.baihich@gmail.com 
