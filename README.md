@@ -21,6 +21,7 @@
 ## 🔧 Tools & Technologies
 
 <p align="center">
+  <!-- أيقوناتك الأساسية والمهمة -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" alt="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" alt="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" alt="Java"/>
@@ -31,47 +32,62 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="45" alt="Raspberry Pi"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45" alt="Arduino"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="45" alt="Ubuntu"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" width="45" alt="Windows11"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" width="45" alt="Windows11"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="45" alt="Ubuntu"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45" alt="Google Cloud"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="45" alt="Hadoop"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" alt="Jupyter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="45" alt="Markdown"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" alt="Tensorflow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" alt="PyTorch"/>
 </p>
+
 
 ---
 
 ## 🎓 Certifications
 
-<p>
+<p align="center">
   <a href="https://www.coursera.org/account/accomplishments/specialization/QTQRZFA3M1HX" target="_blank">
-    <img src="https://img.shields.io/badge/IoT%20Specialization-arduino-green?logo=arduino" />
+    <img src="https://img.shields.io/badge/IoT%20Specialization-Arduino-green?logo=arduino&style=for-the-badge" alt="IoT Specialization"/>
   </a>
   <a href="https://www.coursera.org/account/accomplishments/specialization/NRD0QAONCYQZ" target="_blank">
-    <img src="https://img.shields.io/badge/Machine%20Learning-Python-red?logo=python" />
+    <img src="https://img.shields.io/badge/Machine%20Learning-Python-red?logo=python&style=for-the-badge" alt="Machine Learning"/>
   </a>
   <a href="https://www.coursera.org/account/accomplishments/specialization/KHEZJXVXVOWT" target="_blank">
-    <img src="https://img.shields.io/badge/Arm%20Cortex--M%20Dev-ARM-yellow?logo=arm" />
+    <img src="https://img.shields.io/badge/Arm%20Cortex--M%20Dev-ARM-yellow?logo=arm&style=for-the-badge" alt="Arm Cortex-M Dev"/>
   </a>
   <a href="https://www.coursera.org/account/accomplishments/specialization/3S032H4SCBFG" target="_blank">
-    <img src="https://img.shields.io/badge/Semiconductor%20Characterization-%E2%9A%A1-purple" />
+    <img src="https://img.shields.io/badge/Semiconductor%20Characterization-%E2%9A%A1-purple?style=for-the-badge" alt="Semiconductor Characterization"/>
   </a>
   <a href="https://www.coursera.org/account/accomplishments/specialization/T9PUB0K2TNXV" target="_blank">
-    <img src="https://img.shields.io/badge/Sensors%20%26%20Motors-RaspberryPi-orange?logo=raspberrypi" />
+    <img src="https://img.shields.io/badge/Sensors%20%26%20Motors-RaspberryPi-orange?logo=raspberrypi&style=for-the-badge" alt="Sensors & Motors"/>
   </a>
   <a href="https://www.coursera.org/account/accomplishments/verify/1UUVHIJ9Q7HN" target="_blank">
-    <img src="https://img.shields.io/badge/Automotive%20Embedded%20Systems-%F0%9F%9A%97-blue" />
+    <img src="https://img.shields.io/badge/Automotive%20Embedded%20Systems-Car-blue?style=for-the-badge" alt="Automotive Embedded Systems"/>
   </a>
   <a href="https://www.coursera.org/account/accomplishments/verify/JRHS00CVFHDJ" target="_blank">
-    <img src="https://img.shields.io/badge/Embedded%20SW%20%26%20HW%20Arch-C%2B%2B-orange?logo=cplusplus" />
+    <img src="https://img.shields.io/badge/Embedded%20SW%20%26%20HW%20Arch-C%2B%2B-orange?logo=cplusplus&style=for-the-badge" alt="Embedded SW & HW Arch"/>
   </a>
   <a href="https://www.coursera.org/account/accomplishments/verify/LBE7PRQWZD5I" target="_blank">
-    <img src="https://img.shields.io/badge/5G%20for%20Everyone-5G-pink" />
+    <img src="https://img.shields.io/badge/5G%20for%20Everyone-5G-pink?style=for-the-badge" alt="5G for Everyone"/>
   </a>
   <a href="https://www.coursera.org/account/accomplishments/verify/6NZ7YRI9CD1Y" target="_blank">
-    <img src="https://img.shields.io/badge/Creative%20%26%20Critical%20Thinking-%F0%9F%A7%A0-brown" />
+    <img src="https://img.shields.io/badge/Creative%20%26%20Critical%20Thinking-Brain-brown?style=for-the-badge" alt="Creative & Critical Thinking"/>
   </a>
+</p>
+
+
+---
+
+## 🏆 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medbaihich&layout=compact&theme=github_dark" alt="Top Languages"/>
 </p>
 
 ---
@@ -106,7 +122,10 @@
 
 ---
 
-## 📫 Contact
-- [LinkedIn](https://www.linkedin.com/in/mohamed-baihich/)
-- [GitHub](https://github.com/medbaihich)
-- Email: [hamdi.baihich@gmail.com](mailto:hamdi.baihich@gmail.com)
+## 📬 Connect with me & Find me online
+
+<p align="center">
+  <a href="mailto:hamdi.baihich@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mohamed-baihich/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/medbaihich"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
