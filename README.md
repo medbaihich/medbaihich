@@ -1,45 +1,50 @@
 # Portfolio - Mohamed BAIHICH "🦉"
-👋 Hi, I'm Mohamed Baihich  
-🎓 2nd-year Master's student in Excellence Program: Computer Engineering & Embedded Systems   
-💡 Passionate about programming, embedded systems, AI, and software development   
-🛠️ Skilled in  C, C++, Assembly, Java, Python and JavaScript   
-📂 Sharing my projects and learning experiences here on GitHub 
 
+<table>
+<tr>
+<td>
 
+🎓 **2nd-year Master's student** in Excellence Program: Computer Engineering & Embedded Systems  
+💡 **Passionate** about programming, embedded systems, AI, and software development  
+🛠️ **Skilled in:** C, C++, Assembly, Java, Python, JavaScript  
+📂 **Sharing my projects and learning experiences here on GitHub**
 
-
+</td>
+<td>
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="120" alt="Coding Owl"/>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🔧 Tools & Technologies
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="45"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="45" alt="Raspberry Pi"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45" alt="Arduino"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" width="45" alt="Windows11"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="45" alt="Ubuntu"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45" alt="Google Cloud"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="45" alt="Hadoop"/>
 </p>
 
 ---
 
-
 ## 🎓 Certifications
 
 <p>
-  
   <a href="https://www.coursera.org/account/accomplishments/specialization/QTQRZFA3M1HX" target="_blank">
     <img src="https://img.shields.io/badge/IoT%20Specialization-arduino-green?logo=arduino" />
   </a>
@@ -69,9 +74,7 @@
   </a>
 </p>
 
-
 ---
-
 
 ## 💻 IoT & Embedded Projects (Wokwi)
 
@@ -90,21 +93,20 @@
 - [projet_AI](https://github.com/medbaihich/projet-machine-learning) – Practical AI project.
 - [machine-learning](https://github.com/medbaihich/projet_ai) – Various ML implementations.
 
-
 ---
 
-  ## ⚙️ Real-Time & Coursework
+## ⚙️ Real-Time & Coursework
 - [TP1_Prog.TempsReel](https://github.com/medbaihich/TP1_Prog.TempsReel) – Real-time systems practicals.  
 - [TravauxPratiques_python](https://github.com/medbaihich/TravauxPratiques_python) – Python exercises and labs.
 
 ---
 
- ## 🏤 Building Light Control Project
- - [Projet](https://github.com/medbaihich/control_lumiere) – Light Control Project.
+## 🏤 Building Light Control Project
+- [Projet](https://github.com/medbaihich/control_lumiere) – Light Control Project.
 
-  ---
+---
 
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/mohamed-baihich/)
 - [GitHub](https://github.com/medbaihich)
-- Email: hamdi.baihich@gmail.com 
+- Email: [hamdi.baihich@gmail.com](mailto:hamdi.baihich@gmail.com)
