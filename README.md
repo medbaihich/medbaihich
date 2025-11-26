@@ -88,7 +88,7 @@
 ## 🏆 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medbaihich&layout=compact&theme=github_dark" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=medbaihich&theme=github_dark" alt="Top Languages" />
 </p>
 
 ---
