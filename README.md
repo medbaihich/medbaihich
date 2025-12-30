@@ -21,10 +21,9 @@
 ## 🔧 Tools & Technologies
 
 <p align="center">
-  <!-- أيقوناتك الأساسية والمهمة -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" alt="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" alt="C++"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" width="45" alt="Embedded C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" width="45" alt="Embedded C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript"/>
@@ -46,7 +45,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" alt="Tensorflow"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" alt="PyTorch"/>
 </p>
-
 
 ---
 
@@ -82,7 +80,6 @@
   </a>
 </p>
 
-
 ---
 
 ## 🏆 Most Used Languages
@@ -93,37 +90,63 @@
 
 ---
 
-## 💻 IoT & Embedded Projects (Wokwi)
+## 🚀 Featured Projects
 
-| # | Project Title          | Description                                                                 | Live Demo |
-|---|------------------------|-----------------------------------------------------------------------------|-----------|
-| 1 | 🌡️ IoT TP              | ESP32 reads Temp/Humidity/CO₂/Lux and controls a Servo + RGB LED with ThingSpeak. | [Demo](https://wokwi.com/projects/397895913864522753) |
-| 2 | 🔒 Micropython TLS      | ESP32 with MicroPython + DHT22 + MQTT over TLS + LED/Servo control.         | [Demo](https://wokwi.com/projects/418744222552611841) |
-| 3 | 📡 Pico MQTT Project    | Raspberry Pico + DHT sensor publishes data every 2s over MQTT.              | [Demo](https://wokwi.com/projects/418715367337991169) |
-| 4 | 📶 Simple IoT (ESP32)   | ESP32 sends Temp/Humidity data over MQTT.                                   | [Demo](https://wokwi.com/projects/418625273202124801) |
-| 5 | 🔐 Password Lock System | Keypad + LCD + Servo: password-protected lock system.                       | [Demo](https://wokwi.com/projects/388780209371716609) |
-| 6 | 🎹 Electronic Piano     | Button matrix + Buzzer producing musical notes.                             | [Demo](https://wokwi.com/projects/387929782406976513) |
+### 🧠 AI & Big Data
+| Project Title | Description | Tech Stack |
+|---|---|---|
+| **[🔥 Forest Fire Prediction](https://github.com/medbaihich/Fire-Forest_Prediction)** | Real-time monitoring and prediction system for forest fires using **Big Data** tools. | Spark, Hadoop, IoT |
+
+### 🏠 IoT & Automation
+| Project Title | Description | Tech Stack |
+|---|---|---|
+| **[☁️ IoT Weather Station](https://github.com/sabri-abdelaaziz/station_meteo)** | A smart weather station system for monitoring environmental data. | IoT, Sensors, ESP32 |
+| **[💡 Building Light Control](https://github.com/medbaihich/control_lumiere)** | Automated smart building system for efficient light control and energy management. | C++, Sensors, Automation |
+
+### 🔐 IoT Security
+| Project Title | Description | Tech Stack |
+|---|---|---|
+| **[🛡️ IoT File Integrity (FIM)](https://github.com/medbaihich/IoT_file_integrity_monitoring)** | Security system designed to monitor file integrity on **ESP32** microcontrollers. | Embedded C, ESP32, Security |
+
+### 🔗 Blockchain & Web3
+| Project Title | Description | Tech Stack |
+|---|---|---|
+| **[⛓️ Blockchain DApp](https://github.com/medbaihich/BlockChain_DApp)** | Decentralized Application (DApp) for secure and transparent transactions. | Blockchain, Solidity, Web3 |
 
 ---
 
-## 🧠 Machine Learning & AI 
-- [projet_AI](https://github.com/medbaihich/projet-machine-learning) – Practical AI project.
-- [machine-learning](https://github.com/medbaihich/projet_ai) – Various ML implementations.
+## 🤖 AI & Data Science Projects
+
+| Project Title | Description | Domain |
+|---|---|---|
+| **[🖼️ Image Classification](https://github.com/medbaihich/Image-Classification-With-Deep-Features)** | Robust image classification model using **Deep Features** & Transfer Learning. | Deep Learning |
+| **[🔍 Deep Image Retrieval](https://github.com/medbaihich/Deep_Learning-image_retrieval)** | Content-based image retrieval engine using deep feature extraction. | Deep Learning |
+| **[😊 Product Sentiment](https://github.com/medbaihich/Analyzing-products-sentiment)** | Sentiment analysis on product reviews using **NLP** techniques. | NLP / ML |
+| **[📄 Document Retrieval](https://github.com/medbaihich/Document-retrieval)** | Information retrieval system finding similar documents using **TF-IDF**. | NLP / ML |
+| **[🎵 Song Recommender](https://github.com/medbaihich/Song-recommender)** | Recommendation engine using popularity and item-similarity collaborative filtering. | Recommender Systems |
 
 ---
 
-## ⚙️ Real-Time & Coursework
+## 💻 IoT & Embedded Simulations (Wokwi)
+
+| # | Project Title | Description | Live Demo |
+|---|---|---|---|
+| 1 | 🌡️ IoT TP | ESP32 reads Temp/Humidity/CO₂/Lux and controls a Servo + RGB LED with ThingSpeak. | [Demo](https://wokwi.com/projects/397895913864522753) |
+| 2 | 🔒 Micropython TLS | ESP32 with MicroPython + DHT22 + MQTT over TLS + LED/Servo control. | [Demo](https://wokwi.com/projects/418744222552611841) |
+| 3 | 📡 Pico MQTT | Raspberry Pico + DHT sensor publishes data every 2s over MQTT. | [Demo](https://wokwi.com/projects/418715367337991169) |
+| 4 | 📶 Simple IoT | ESP32 sends Temp/Humidity data over MQTT. | [Demo](https://wokwi.com/projects/418625273202124801) |
+| 5 | 🔐 Password Lock | Keypad + LCD + Servo: password-protected lock system. | [Demo](https://wokwi.com/projects/388780209371716609) |
+| 6 | 🎹 Electronic Piano | Button matrix + Buzzer producing musical notes. | [Demo](https://wokwi.com/projects/387929782406976513) |
+
+---
+
+## ⚙️ Other Academic Projects
 - [TP1_Prog.TempsReel](https://github.com/medbaihich/TP1_Prog.TempsReel) – Real-time systems practicals.  
 - [TravauxPratiques_python](https://github.com/medbaihich/TravauxPratiques_python) – Python exercises and labs.
 
 ---
 
-## 🏤 Building Light Control Project
-- [Projet](https://github.com/medbaihich/control_lumiere) – Light Control Project.
-
----
-
-## 📬 Connect with me & Find me online
+## 📬 Connect with me
 
 <p align="center">
   <a href="mailto:hamdi.baihich@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
