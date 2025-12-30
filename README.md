@@ -149,7 +149,9 @@
 ## 📬 Connect with me
 
 <p align="center">
-  <a href="mailto:hamdi.baihich@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hamdi.baihich@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
   <a href="https://www.linkedin.com/in/mohamed-baihich/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/medbaihich"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
