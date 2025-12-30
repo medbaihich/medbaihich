@@ -101,7 +101,7 @@
 | Project Title | Description | Tech Stack |
 |---|---|---|
 | **[☁️ IoT Weather Station](https://github.com/sabri-abdelaaziz/station_meteo)** | A smart weather station system for monitoring environmental data. | IoT, Sensors, ESP32 |
-| **[💡 Building Light Control](https://github.com/medbaihich/control_lumiere)** | Automated smart building system for efficient light control and energy management. | C++, Sensors, Automation |
+| **[💡 Building Light Control](https://github.com/medbaihich/Smart-Building-Light-Control-System)** | Automated smart building system for efficient light control and energy management. | C++, Sensors, Automation |
 
 ### 🔐 IoT Security
 | Project Title | Description | Tech Stack |
