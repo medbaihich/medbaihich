@@ -6,7 +6,7 @@
 
 🎓 **2nd-year Master's student** in Excellence Program: Computer Engineering & Embedded Systems  
 💡 **Passionate** about programming, embedded systems, AI, and software development  
-🛠️ **Skilled in:** C, C++, Assembly, Java, Python, JavaScript  
+🛠️ **Skilled in:** C, C++, Assembly, Python, JavaScript  
 📂 **Sharing my projects and learning experiences here on GitHub**
 
 </td>
