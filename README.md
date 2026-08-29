@@ -85,13 +85,21 @@ I am particularly interested in building **reliable, efficient, and intelligent 
 
 ### 🧠 Edge AI & Machine Learning
 
-<img src="https://skillicons.dev/icons?i=tensorflow" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" alt="TensorFlow" title="TensorFlow"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" alt="Python" title="Python"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" alt="Scikit-learn" title="Scikit-learn"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" alt="Pandas" title="Pandas"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" alt="NumPy" title="NumPy"/>
+</p>
 
 `TensorFlow` • `TensorFlow Lite` • `MobileNetV2`
 
 `FAISS` • `Scikit-learn` • `Pandas` • `NumPy`
-
-</td>
 
 <td width="50%" align="center" valign="top">
 
