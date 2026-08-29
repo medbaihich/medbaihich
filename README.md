@@ -1,268 +1,344 @@
-<h1 align="center">Mohamed BAIHICH</h1>
+<!-- =========================
+            HERO
+========================= -->
 
-<h3 align="center">Embedded Systems & IoT | Edge AI</h3>
+<div align="center">
 
-<p align="center">
-  Master d’Excellence Graduate in Computer Engineering & Embedded Systems
-</p>
+# Mohamed BAIHICH
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-baihich/">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20BAIHICH-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:hamdi.baihich@gmail.com">
-    <img src="https://img.shields.io/badge/Email-hamdi.baihich%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://wokwi.com/makers/medbaihich">
-    <img src="https://img.shields.io/badge/Wokwi-Embedded%20Labs-2C3454?style=flat"/>
-  </a>
-</p>
+### Embedded Systems • IoT • Edge AI
+
+**Master d’Excellence — Computer Engineering & Embedded Systems**
+
+<br>
+
+<a href="https://www.linkedin.com/in/mohamed-baihich/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:hamdi.baihich@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://wokwi.com/makers/medbaihich">
+  <img src="https://img.shields.io/badge/Wokwi-Embedded%20Labs-2C3454?style=for-the-badge">
+</a>
+
+<br><br>
+
+**Building intelligent connected systems from hardware to Edge AI and backend services.**
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a **Master d’Excellence graduate in Computer Engineering & Embedded Systems** with hands-on experience in **embedded systems, IoT, Edge AI, machine learning, backend development, and distributed systems**.
+I am a **Master d’Excellence graduate in Computer Engineering & Embedded Systems**, focused on **Embedded Systems, IoT, and Edge AI**.
 
-My work focuses on building complete systems that connect **hardware, edge computing, intelligent data processing, communication protocols, and backend services**.
+I design and build end-to-end connected systems that bridge **hardware, edge intelligence, communication protocols, and backend services** — from embedded devices and sensor data acquisition to AI inference, messaging, APIs, and monitoring platforms.
 
-For my final-year project at **AZURA / MARAISSA**, I designed and implemented an **Edge-IoT platform for intelligent tomato disease monitoring**, combining Raspberry Pi, TensorFlow Lite, MobileNetV2, FAISS, MQTT/RabbitMQ, Django/DRF, React, and Docker.
+My work involves technologies such as **C/C++, Python, ESP32, Raspberry Pi, ARM Cortex-M, MQTT, LoRaWAN, TensorFlow Lite, Django, Docker, and distributed data systems**.
 
-The AI pipeline was evaluated on **6,383 images across 15 classes**, achieving **98.7% accuracy for leaf/fruit routing**, while MobileNetV2 generated **1,280-dimensional embeddings** for similarity-based analysis.
+I am particularly interested in building **reliable, efficient, and intelligent systems where AI runs close to the data and interacts directly with real-world devices**.
 
 ---
 
-## 🛠️ Core Technologies
+<!-- =========================
+          TECH STACK
+========================= -->
 
-### Programming
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
+## ⚙️ Tech Stack
+
+<table align="center" width="100%">
+<tr>
+
+<td width="50%" align="center" valign="top">
+
+### 💻 Programming
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
+
+`C` • `C++` • `Python` • `JavaScript` • `Assembly` • `SQL`
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+### 🔌 Embedded Systems & IoT
+
+<img src="https://skillicons.dev/icons?i=raspberrypi,arduino,linux" />
+
+`ESP32` • `Raspberry Pi` • `ARM Cortex-M` • `RTOS`
+
+`MQTT` • `LoRaWAN` • `TLS` • `I2C` • `SPI` • `UART` • `RPC`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center" valign="top">
+
+### 🧠 Edge AI & Machine Learning
+
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+
+`TensorFlow` • `TensorFlow Lite` • `MobileNetV2`
+
+`FAISS` • `Scikit-learn` • `Pandas` • `NumPy`
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+### ⚙️ Backend, DevOps & Data
+
+<img src="https://skillicons.dev/icons?i=django,react,docker,git,linux,mongodb,aws" />
+
+`Django` • `DRF` • `React` • `RabbitMQ`
+
+`Docker` • `Node-RED` • `Spark` • `Hadoop/HDFS` • `Kafka`
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- =========================
+        CERTIFICATIONS
+========================= -->
+
+<div align="center">
+
+## 🎓 Certifications
+
+<p align="center">
+
+<a href="https://www.coursera.org/account/accomplishments/specialization/KHEZJXVXVOWT">
+<img src="https://img.shields.io/badge/ARM-Cortex--M%20Development-0091BD?style=flat-square&logo=arm&logoColor=white">
+</a>
+
+<a href="https://www.coursera.org/account/accomplishments/specialization/QTQRZFA3M1HX">
+<img src="https://img.shields.io/badge/IoT-Specialization-00878F?style=flat-square&logo=arduino&logoColor=white">
+</a>
+
+<a href="https://www.coursera.org/account/accomplishments/verify/JRHS00CVFHDJ">
+<img src="https://img.shields.io/badge/Embedded-Software%20%26%20Hardware-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+</a>
+
+<a href="https://www.coursera.org/account/accomplishments/specialization/NRD0QAONCYQZ">
+<img src="https://img.shields.io/badge/Machine-Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
+</a>
+
+<a href="https://www.coursera.org/account/accomplishments/specialization/T9PUB0K2TNXV">
+<img src="https://img.shields.io/badge/Embedded-Sensors%20%26%20Motors-A22846?style=flat-square&logo=raspberrypi&logoColor=white">
+</a>
+
+<a href="https://www.coursera.org/account/accomplishments/verify/1UUVHIJ9Q7HN">
+<img src="https://img.shields.io/badge/Automotive-Embedded%20Systems-333333?style=flat-square">
+</a>
+
+<a href="https://www.coursera.org/account/accomplishments/specialization/3S032H4SCBFG">
+<img src="https://img.shields.io/badge/Semiconductor-Characterization-6F42C1?style=flat-square">
+</a>
+
+<a href="https://www.coursera.org/account/accomplishments/verify/LBE7PRQWZD5I">
+<img src="https://img.shields.io/badge/5G-for%20Everyone-EC4899?style=flat-square">
+</a>
+
+<a href="https://www.coursera.org/account/accomplishments/verify/6NZ7YRI9CD1Y">
+<img src="https://img.shields.io/badge/IBM-Creative%20%26%20Critical%20Thinking-052FAD?style=flat-square&logo=ibm&logoColor=white">
+</a>
+
 </p>
 
-`C` · `C++` · `Python` · `JavaScript` · `Assembly` · `SQL`
-
-### Embedded Systems & IoT
-
-`ESP32` · `Raspberry Pi` · `ARM Cortex-M` · `RTOS` · `Arduino`
-
-`MQTT` · `LoRaWAN` · `TLS` · `I2C` · `SPI` · `UART` · `RPC`
-
-### Edge AI & Machine Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
-</p>
-
-`TensorFlow` · `TensorFlow Lite` · `MobileNetV2` · `FAISS`
-
-`Scikit-learn` · `Deep Learning` · `Machine Learning` · `Pandas` · `NumPy`
-
-### Backend, Web & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=django,react,docker,linux,git" />
-</p>
-
-`Django` · `Django REST Framework` · `React` · `RabbitMQ`
-
-`Docker` · `Docker Compose` · `Node-RED` · `Git` · `Linux`
-
-### Big Data & Cloud
-
-`Apache Spark` · `Hadoop / HDFS` · `Kafka` · `MongoDB` · `AWS`
+</div>
 
 ---
 
-# 🚀 Featured Projects
+<!-- =========================
+        FEATURED PROJECTS
+========================= -->
 
-## 🌱 Edge-IoT Tomato Disease Monitoring
+<div align="center">
 
-**[View Repository](https://github.com/medbaihich/projet-tomate-monitoring)**
+## 🚀 Featured Projects
 
-End-to-end **Edge-IoT and Edge AI platform** developed for intelligent monitoring of tomato diseases.
+</div>
 
-The system performs local image processing on a Raspberry Pi, extracts visual embeddings using MobileNetV2, routes images between fruit and leaf pipelines, performs similarity search with FAISS, and sends results to a complete supervision platform.
+<table align="center" width="100%">
 
-**Key results**
+<tr>
 
-- Evaluated on **6,383 images**
-- **15 visual classes**
-- **98.7% leaf/fruit routing accuracy**
-- **1,280-dimensional MobileNetV2 embeddings**
-- End-to-end pipeline from image capture to dashboard alerts
-- Vector-first architecture to reduce unnecessary transmission of raw images
+<td width="50%" align="center" valign="top">
 
-**Tech Stack**
+### 🌱 [Tomato Disease Monitoring](https://github.com/medbaihich/projet-tomate-monitoring)
 
-`Raspberry Pi` · `TensorFlow Lite` · `MobileNetV2` · `FAISS`
+**Edge-IoT & Edge AI Platform**
 
-`MQTT` · `RabbitMQ` · `Django REST Framework` · `React` · `Docker`
+`Raspberry Pi` `TensorFlow Lite` `MobileNetV2`  
+`FAISS` `MQTT` `RabbitMQ` `Django` `React` `Docker`
 
----
+**6,383 Images • 15 Classes**  
+**98.7% Organ Routing Accuracy**
 
-## 🌲 Forest Fire Prediction & Real-Time Monitoring
+</td>
 
-**[View Repository](https://github.com/medbaihich/Fire-Forest_Prediction)**
+<td width="50%" align="center" valign="top">
 
-End-to-end Big Data system for forest-fire risk prediction using historical weather data and simulated real-time IoT streams.
+### 🌲 [Forest Fire Prediction](https://github.com/medbaihich/Fire-Forest_Prediction)
 
-The architecture combines batch Machine Learning training with real-time stream processing.
+**Big Data & Real-Time Monitoring**
 
-**Model Performance**
+`PySpark` `Kafka` `Hadoop/HDFS`  
+`MongoDB` `Random Forest` `Docker`
 
-- Accuracy: **~85.5%**
-- ROC-AUC: **~0.928**
+**~85.5% Accuracy • 0.928 ROC-AUC**
 
-**Architecture**
+</td>
 
-`Historical Data → HDFS → Spark ML → Random Forest`
+</tr>
 
-`IoT Simulation → Kafka → Spark Structured Streaming → MongoDB`
+<tr>
 
-**Tech Stack**
+<td width="50%" align="center" valign="top">
 
-`PySpark` · `Apache Spark` · `Kafka` · `Hadoop/HDFS`
+### 🔐 [IoT File Integrity Monitoring](https://github.com/medbaihich/IoT_file_integrity_monitoring)
 
-`MongoDB` · `Random Forest` · `Docker`
+**Embedded Security System**
 
----
+`ESP32` `MicroPython` `SHA-256` `Wokwi`
 
-## 🔐 IoT File Integrity Monitoring
+Tamper Detection • Auto-Heal • Security Logging
 
-**[View Repository](https://github.com/medbaihich/IoT_file_integrity_monitoring)**
+</td>
 
-Proof-of-concept security system running on ESP32 that continuously monitors critical files for unauthorized modifications.
+<td width="50%" align="center" valign="top">
 
-Features include:
+### 💡 [Smart Building Light Control](https://github.com/medbaihich/Smart-Building-Light-Control-System)
 
-- SHA-256 integrity verification
-- Real-time tampering detection
-- Automatic file recovery
-- Security event logging
-- Visual hardware alerts
-- Attack simulation
+**Smart Automation Platform**
 
-**Tech Stack**
+`Python` `Django` `DRF` `XML-RPC` `Celery`
 
-`ESP32` · `MicroPython` · `SHA-256` · `Wokwi`
+Scheduling • Permissions • Energy Analytics
 
----
+</td>
 
-## 💡 Smart Building Light Control System
+</tr>
 
-**[View Repository](https://github.com/medbaihich/Smart-Building-Light-Control-System)**
+<tr>
 
-Smart building platform designed to manage lighting systems across buildings, floors, and zones.
+<td width="50%" align="center" valign="top">
 
-Features include:
+### 🖼️ [Deep Learning Image Retrieval](https://github.com/medbaihich/Deep_Learning-image_retrieval)
 
-- Zone and lamp management
-- Automatic lighting schedules
-- Role-based permissions
-- Energy-consumption analytics
-- Activity logging
-- Hardware communication through XML-RPC
-- Simulation mode for testing without physical hardware
+**Content-Based Visual Search**
 
-**Tech Stack**
+`Python` `CNN` `Deep Features` `k-NN`
 
-`Python` · `Django` · `Django REST Framework`
+Semantic Image Similarity
 
-`XML-RPC` · `Celery` · `JavaScript` · `PostgreSQL / SQLite`
+</td>
 
----
+<td width="50%" align="center" valign="top">
 
-## 🖼️ Deep Learning Image Retrieval
+### ☁️ [IoT Weather Station](https://github.com/sabri-abdelaaziz/station_meteo)
 
-**[View Repository](https://github.com/medbaihich/Deep_Learning-image_retrieval)**
+**Environmental Monitoring Platform**
 
-Content-based image retrieval engine using deep neural-network features instead of traditional pixel-based comparison.
+`IoT` `Sensors` `Django` `AWS` `Machine Learning`
 
-The system extracts high-level visual representations from images and retrieves semantically similar images using nearest-neighbor search.
+Data Acquisition • Dashboard • Prediction
 
-**Tech Stack**
+</td>
 
-`Python` · `CNN` · `Deep Features` · `k-NN` · `Turi Create`
+</tr>
+
+</table>
 
 ---
 
-## ☁️ IoT Weather Station
+<!-- =========================
+        AI PROJECTS
+========================= -->
 
-**[View Repository](https://github.com/sabri-abdelaaziz/station_meteo)**
+<div align="center">
 
-Connected IoT system for environmental-data acquisition, visualization, and predictive analysis.
+## 🤖 AI & Data Projects
 
-**Tech Stack**
+| Project | Domain |
+|:---:|:---:|
+| 😊 [Product Sentiment Analysis](https://github.com/medbaihich/Analyzing-products-sentiment) | NLP / Machine Learning |
+| 🎵 [Music Recommendation System](https://github.com/medbaihich/Song-recommender) | Recommender Systems |
+| 🖼️ [Image Classification](https://github.com/medbaihich/Image-Classification-With-Deep-Features) | Deep Learning |
+| 📄 [Document Retrieval](https://github.com/medbaihich/Document-retrieval) | Information Retrieval |
 
-`IoT` · `Sensors` · `Django` · `AWS` · `Machine Learning`
-
----
-
-# 🤖 AI & Data Science Projects
-
-| Project | Description | Domain |
-|---|---|---|
-| **[Product Sentiment Analysis](https://github.com/medbaihich/Analyzing-products-sentiment)** | Sentiment classification of Amazon product reviews using Logistic Regression and text features | NLP / ML |
-| **[Music Recommendation System](https://github.com/medbaihich/Song-recommender)** | Popularity-based and item-similarity recommender with precision/recall evaluation | Recommender Systems |
-| **[Image Classification with Deep Features](https://github.com/medbaihich/Image-Classification-With-Deep-Features)** | Image classification using transfer-learning-based deep features | Deep Learning |
-| **[Document Retrieval](https://github.com/medbaihich/Document-retrieval)** | Information retrieval system based on TF-IDF and vector similarity | NLP / Information Retrieval |
+</div>
 
 ---
 
-# 🎓 Certifications
+<!-- =========================
+          LABS
+========================= -->
 
-- **[Arm Cortex-M Architecture & Software Development Specialization](https://www.coursera.org/account/accomplishments/specialization/KHEZJXVXVOWT)** — ARM
-- **[Hands-on Internet of Things Specialization](https://www.coursera.org/account/accomplishments/specialization/QTQRZFA3M1HX)** — University of Illinois
-- **[Embedded Software & Hardware Architecture](https://www.coursera.org/account/accomplishments/verify/JRHS00CVFHDJ)** — University of Colorado Boulder
-- **[Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/NRD0QAONCYQZ)** — University of Washington
-- **[Embedding Sensors and Motors Specialization](https://www.coursera.org/account/accomplishments/specialization/T9PUB0K2TNXV)** — University of Colorado Boulder
-- **[Introduction to Automotive Embedded Systems](https://www.coursera.org/account/accomplishments/verify/1UUVHIJ9Q7HN)** — Starweaver / Coursera
+<div align="center">
 
----
+## 🧪 Embedded & IoT Labs
 
-# 🔬 Embedded & IoT Labs
+</div>
 
 <details>
 
-<summary><b>View Wokwi simulations</b></summary>
+<summary align="center"><b>View Wokwi Simulations</b></summary>
 
 <br>
 
-| Project | Description | Demo |
-|---|---|---|
-| 🌡️ IoT Environment Monitor | ESP32 monitors temperature, humidity, CO₂ and light while controlling actuators | [Open](https://wokwi.com/projects/397895913864522753) |
-| 🔒 MQTT over TLS | ESP32 + MicroPython + DHT22 with secure MQTT communication | [Open](https://wokwi.com/projects/418744222552611841) |
-| 📡 Raspberry Pi Pico MQTT | Pico publishes sensor measurements over MQTT | [Open](https://wokwi.com/projects/418715367337991169) |
-| 📶 ESP32 IoT Monitor | Temperature and humidity telemetry over MQTT | [Open](https://wokwi.com/projects/418625273202124801) |
-| 🔐 Password Lock | Keypad + LCD + Servo access-control system | [Open](https://wokwi.com/projects/388780209371716609) |
-| 🎹 Electronic Piano | Embedded button matrix and buzzer exercise | [Open](https://wokwi.com/projects/387929782406976513) |
+| Lab | Demo |
+|:---:|:---:|
+| 🌡️ ESP32 Environment Monitor | [Open Demo](https://wokwi.com/projects/397895913864522753) |
+| 🔒 ESP32 MQTT over TLS | [Open Demo](https://wokwi.com/projects/418744222552611841) |
+| 📡 Raspberry Pi Pico MQTT | [Open Demo](https://wokwi.com/projects/418715367337991169) |
+| 📶 ESP32 MQTT Monitor | [Open Demo](https://wokwi.com/projects/418625273202124801) |
+| 🔐 Embedded Password Lock | [Open Demo](https://wokwi.com/projects/388780209371716609) |
+| 🎹 Electronic Piano | [Open Demo](https://wokwi.com/projects/387929782406976513) |
 
 </details>
 
 ---
 
-# 📚 Other Technical Work
+<!-- =========================
+          CONTACT
+========================= -->
 
-- **[Real-Time Systems Labs](https://github.com/medbaihich/TP1_Prog.TempsReel)** — Practical exercises related to real-time programming.
-- **[Python Labs](https://github.com/medbaihich/TravauxPratiques_python)** — Python programming exercises and experiments.
+<div align="center">
 
----
+## 📫 Let's Connect
 
-# 📫 Contact
-
-<p align="center">
+<br>
 
 <a href="mailto:hamdi.baihich@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-hamdi.baihich%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/mohamed-baihich/">
-  <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20BAIHICH-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://wokwi.com/makers/medbaihich">
-  <img src="https://img.shields.io/badge/Wokwi-Embedded%20Projects-2C3454?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wokwi-Projects-2C3454?style=for-the-badge">
 </a>
 
-</p>
+<br><br>
+
+### Embedded Systems • IoT • Edge AI
+
+</div>
