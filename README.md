@@ -294,10 +294,6 @@ Data Acquisition • Dashboard • Prediction
 
 ---
 
-<!-- =========================
-          LABS
-========================= -->
-
 <div align="center">
 
 ## 🧪 Embedded & IoT Labs
@@ -305,19 +301,50 @@ Data Acquisition • Dashboard • Prediction
 </div>
 
 <details>
-
-<summary align="center"><b>View Wokwi Simulations</b></summary>
+<summary align="center"><b> View Wokwi Simulations</b></summary>
 
 <br>
 
-| Lab | Demo |
-|:---:|:---:|
-| 🌡️ ESP32 Environment Monitor | [Open Demo](https://wokwi.com/projects/397895913864522753) |
-| 🔒 ESP32 MQTT over TLS | [Open Demo](https://wokwi.com/projects/418744222552611841) |
-| 📡 Raspberry Pi Pico MQTT | [Open Demo](https://wokwi.com/projects/418715367337991169) |
-| 📶 ESP32 MQTT Monitor | [Open Demo](https://wokwi.com/projects/418625273202124801) |
-| 🔐 Embedded Password Lock | [Open Demo](https://wokwi.com/projects/388780209371716609) |
-| 🎹 Electronic Piano | [Open Demo](https://wokwi.com/projects/387929782406976513) |
+<div align="center">
+
+<table align="center" width="70%">
+  <tr>
+    <th align="center">Lab</th>
+    <th align="center">Demo</th>
+  </tr>
+
+  <tr>
+    <td align="center">🌡️ ESP32 Environment Monitor</td>
+    <td align="center"><a href="https://wokwi.com/projects/397895913864522753">Open Demo</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">🔒 ESP32 MQTT over TLS</td>
+    <td align="center"><a href="https://wokwi.com/projects/418744222552611841">Open Demo</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">📡 Raspberry Pi Pico MQTT</td>
+    <td align="center"><a href="https://wokwi.com/projects/418715367337991169">Open Demo</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">📶 ESP32 MQTT Monitor</td>
+    <td align="center"><a href="https://wokwi.com/projects/418625273202124801">Open Demo</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">🔐 Embedded Password Lock</td>
+    <td align="center"><a href="https://wokwi.com/projects/388780209371716609">Open Demo</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">🎹 Electronic Piano</td>
+    <td align="center"><a href="https://wokwi.com/projects/387929782406976513">Open Demo</a></td>
+  </tr>
+</table>
+
+</div>
 
 </details>
 
